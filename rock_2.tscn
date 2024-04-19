@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://b5o4uh2m2jsdm"]
+
+[ext_resource type="Texture2D" uid="uid://bwnrser6p1h0w" path="res://cracked.jpeg" id="1_2pb7d"]
+
+[node name="rockden" type="Node2D"]
+position = Vector2(438, 497)
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(22, 10)
+scale = Vector2(0.941176, 1)
+texture = ExtResource("1_2pb7d")

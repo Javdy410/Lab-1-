@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://dkj4ohuoarxrp"]
+
+[ext_resource type="Texture2D" uid="uid://iova5tv4rdc3" path="res://rocken.jpeg" id="1_15hi2"]
+
+[node name="rock1" type="Node2D"]
+position = Vector2(564, 446)
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(1.00006, 10)
+scale = Vector2(0.22, 0.23871)
+texture = ExtResource("1_15hi2")
